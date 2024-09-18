@@ -6,7 +6,7 @@ The driving force for the generation of loading paths in our finite deformation 
 
 For more informations, refer to our paper:
 
-[Paper]([https://doi.org/10.1016/j.cma.2023.116293)])
+[Paper](https://doi.org/10.1016/j.cma.2023.116293)
 
 ```
 article{bahtiri2023machine,
