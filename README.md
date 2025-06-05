@@ -1,4 +1,4 @@
-# PHYSICS-AI Data Generation: Constitutive Model-Based Training Data
+# Data Generation: Constitutive Model-Based Training Data
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2019b+-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
