@@ -6,8 +6,6 @@
 
 A **space-filling data generation framework** for creating synthetic training datasets from nonlinear constitutive models. This repository generates comprehensive datasets for training physics-informed deep learning models on complex material behavior, specifically targeting viscoelastic-viscoplastic-damage materials with environmental dependencies.
 
-![Data Generation Workflow](rheological_model_workflow.png)
-
 ## 🎯 Overview
 
 This framework addresses the critical challenge of generating sufficient, diverse training data for physics-informed neural networks in materials science. Traditional experimental data is often limited in scope and expensive to obtain. Our approach generates synthetic but physically realistic datasets using established constitutive models, enabling robust training of deep learning models for material behavior prediction.
@@ -61,8 +59,8 @@ Parallel Computing Toolbox (optional, for acceleration)
 ### Option 1: Clone Repository
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/PHYSICS-AI-DataGen.git](https://github.com/BBahtiri/Space-Filling-Algorithm-Data-Generation-Technique)
-cd PHYSICS-AI-DataGen
+git clone https://github.com/BBahtiri/Space-Filling-Algorithm-Data-Generation-Technique.git
+cd Space-Filling-Algorithm-Data-Generation-Technique
 
 # Open MATLAB and add to path
 addpath(genpath(pwd))
